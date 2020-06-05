@@ -1,1 +1,1 @@
-# furry-journey
+# furry-trip
